@@ -1,4 +1,6 @@
 # Collection of useful cheatsheets compiled by me.
+ ![sample](sample.png)
+
 
 ### Important notice
 I did not create elements of those sheets. Just collected them together. 
