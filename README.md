@@ -1,5 +1,5 @@
 # My compilation of useful cheatsheets.
- ![sample](sample.png)
+ ![sample](doc/img/sample.jpg)
 
 
 ## Important notice
